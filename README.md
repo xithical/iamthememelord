@@ -1,1 +1,1 @@
-(iamthememelord.com)[iamthememelord.com]
+[iamthememelord.com](https://iamthememelord.com)
