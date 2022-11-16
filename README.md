@@ -1,2 +1,1 @@
-# iamthememelord
- 
+(iamthememelord.com)[iamthememelord.com]
